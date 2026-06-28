@@ -1,2 +1,2 @@
 # Employee-Licensed--Project
-ServiceNow application developed as part of the Skill Wallet internship project.The project An Employee request installation license software
+Implemented a Business Rule to automate request processing for Licensed Software Installation Requests. The rule executes when a request is created, automatically updates request information and supports workflow automation by reducing manual effort and improving request management.
