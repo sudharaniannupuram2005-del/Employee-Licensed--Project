@@ -1,2 +1,2 @@
 # Employee-Licensed--Project
-Implemented a Business Rule to automate request processing for Licensed Software Installation Requests. The rule executes when a request is created, automatically updates request information and supports workflow automation by reducing manual effort and improving request management.
+A Flow Designer workflow was created to automate the licensed software installation process. When a request is submitted through the Service Catalog, an approval action is triggered. After approval, a fulfillment task is automatically generated and assigned for software installation, reducing manual effort and improving process efficiency.
